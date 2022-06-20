@@ -1,0 +1,58 @@
+.descricao_principal {
+    position: absolute;
+    width: 599px;
+    height: 92px;
+    left: 195px;
+    top: 645px;
+
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 118.5%;
+    /* or 50px */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+
+    color: #898989;
+
+}
+
+.botao-sobre_principal {
+    position: absolute;
+    width: 184px;
+    height: 50px;
+    left: 185px;
+    top: 774px;
+    
+    border-radius: 5px;
+    color: #EC1501;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.botao-logar_principal {
+    position: absolute;
+    width: 285px;
+    height: 50px;
+    left: 381px;
+    top: 774px;
+
+    border-radius: 5px;
+    color: white;
+    background-color: #EC1501;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.botao-logar_principal a {
+    text-decoration: none;
+    color: white;
+}
+
+.botao-logar_principal:hover {
+    cursor: pointer;
+    width: 289px;
+    height: 53px;
+}

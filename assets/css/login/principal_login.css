@@ -1,0 +1,83 @@
+.login {
+    position: absolute;
+    width: 612px;
+    height: 400px;
+    left: 30%;
+    top: 179px;
+    background-color: snow;
+    padding-top: 3rem;
+    border-radius: 20px;
+}
+
+.login_form-titulo {
+    text-align: center;
+    margin-left: 10px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    
+}
+
+.login_form-titulo1 {
+    margin-bottom: 3px;
+}
+
+.form {
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.nome_texto {
+    margin-left: 1rem;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+#nome {
+    padding-right: 23rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+    padding-bottom: 2rem;
+    border-color: rgba(255, 22, 22, 17%);
+}
+
+.batata {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase; 
+}
+
+.simnao {
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.ye, .no {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+.ye {
+    margin-right: 9.5rem;
+}
+
+.prosseguir {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    margin-top: 5rem;
+    margin-left: 12rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    background-color: snow;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 20px;
+    border-color: rgba(255, 22, 22, 17%);
+}
+
+.prosseguir:hover {
+    cursor: pointer;
+    border-color: red;
+    color: red;
+}

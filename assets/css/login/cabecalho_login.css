@@ -1,0 +1,31 @@
+.fundo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(180deg, #D3E318 0%, rgba(166, 3, 3, 0.88) 100%);
+
+    box-sizing: border-box;
+}
+
+.imagem_cabecalho {
+    position: absolute;
+    width: 112px;
+    height: 157px;
+    left: 20px;
+    top: -13px;
+}
+
+.imagem-dois_cabecalho {
+    position: absolute;
+    width: 112px;
+    height: 157px;
+    left: 20px;
+    top: -13px;
+}
+
+.imagem_cabecalho:hover {
+    display: none;
+}

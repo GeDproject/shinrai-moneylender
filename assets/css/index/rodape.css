@@ -1,0 +1,22 @@
+.rodape {
+    position: absolute;
+    width: 100%;
+    margin-top: 60rem;
+    background-color: #F8F8FF;
+
+}
+
+.rodape_frase-contato {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.rodape_frase-consulta {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.rodape a {
+    color: black;
+}
+
